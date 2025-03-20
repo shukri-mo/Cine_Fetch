@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# CineFetch
+CineFetch is a seamless and user-friendly platform designed to help users discover, explore, and rate their favorite movies and TV series. With its intuitive interface and diverse features, the app simplifies content discovery and enables users to efficiently manage their personal watchlists.
+Search and Browse: Users can easily search for movies and series by title. The search results display detailed information, including the title and year of release.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Main functionalities
+- Rating and Commenting: Users can rate the content they watch, sharing their opinions and feedback.
 
-## Available Scripts
+- Personal Lists: Users can create custom lists, such as "Already Seen," to organize and track the content they've watched.
 
-In the project directory, you can run:
+- Average Rating: The app automatically calculates the average rating of movies and series rated by users, helping them see the overall enjoyment of the content.
 
-### `yarn start`
+- Summary in Lists: The app displays the total runtime of movies and series in user-created lists, making it easier for users to manage and track how much time they spend on their favorite content.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The CineFetch app combines search, ratings, and personal list management to deliver a complete and seamless experience for movie and series enthusiasts.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Tools
+- HTML5
+- CSS3
+- React JS
 
-### `yarn test`
+# What I learned
+Built with React, this project provided valuable lessons in several key areas:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **API Integration**: I utilized an API that offers detailed information about movies and series. This taught me how to query, manage, and display data on the user interface.
+  
+- **State Management**: React’s state management allowed me to transfer and update data across components. I applied this functionality to manage ratings, lists, and averages.
 
-### `yarn build`
+- **User Experience (UX)**: I learned how to design intuitive user interfaces and the core principles of UX design, ensuring that users can easily browse, rate, and track content in the app.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Project Structure and Modular Code**: Through development, I gained insight into the importance of project and component modularity, which enhances maintainability and scalability.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Testing and Debugging**: I recognized the significance of testing and debugging during development, learning how to effectively test components and address issues efficiently.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+These experiences have greatly boosted my confidence and efficiency in developing modern web applications, and deepened my understanding of using React in real-world projects.
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Gratitude
+A big thank you to everyone who provided feedback on my solution. Your insights have been invaluable in helping me discover new coding approaches and find simpler solutions!
